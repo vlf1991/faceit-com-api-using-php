@@ -1,4 +1,4 @@
-# faceit-com-api-using-php
-Faceit.com api kullanımı | api using
+# faceit com api using | php
+
 
 konu linki -> https://www.kodd.xyz/faceit-com-api-kullanimi/
